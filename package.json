@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "lucide-react": "^0.506.0",
+    "mapbox": "^1.0.0-beta10",
+    "mapbox-gl": "^3.11.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
